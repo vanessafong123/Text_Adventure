@@ -155,7 +155,7 @@ const textNodes = [
   },
   {
     id: 9,
-    text: 'Oh! Your socks are too stinky that make creatures around fainted. You defeat the evil wizard and save everyone! ',
+    text: 'Your socks are too stinky that make creatures around fainted. You defeat the evil wizard and save everyone! ',
     options: [
       {
         text: 'Congratulations! Now Play Again!',
